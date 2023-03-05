@@ -57,7 +57,7 @@ See:
 
 **Learning Objectives:**
 
-1. Learn basic the basics of
+1. Learn the basics of
     1. linux terminal 
     1. git
     1. open source software
@@ -190,7 +190,7 @@ Violations of any of these policies will be treated as academic integrity violat
     The benefits of this model include:
     (1) you actually learn how to develop/contribute to open source projects;
     (2) future employers see you have github activity.
-    Please do not abuse this privillage.
+    Please do not abuse this privilege.
 
 ## Accommodations Policy
 
